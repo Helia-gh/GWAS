@@ -1,4 +1,4 @@
-\# Genome Wide Association Study practice in UNIX  
+\# A Rudimentary Genome Wide Association Study (GWAS) in UNIX 
 \# By Helia Ghazinejad
 
 \[\~\]$ cd GWASrawdata  
